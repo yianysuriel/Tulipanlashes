@@ -209,6 +209,9 @@ header {
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease;
 }
+.gallery-item  {color: #FBFACD; background-color: #7e4585 ; text-align: center;
+
+}
 
 .gallery-item img {
     width: 100%;
